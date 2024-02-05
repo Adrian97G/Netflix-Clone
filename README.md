@@ -11,7 +11,7 @@ This is a Netflix clone (Work Practice)
 
 ## :camera_flash: Project Image
 
-![My Project]()
+![My Project](https://github.com/Adrian97G/Netflix-Clone/blob/main/images/Netflix.png)
 
 ## :link: Link to see the project in action
 
