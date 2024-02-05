@@ -1,6 +1,6 @@
 ## :rocket: Netflix Clone
 
-## :page_with_curl: Description#
+## :page_with_curl: Description
 
 This is a Netflix clone (Work Practice)
 
